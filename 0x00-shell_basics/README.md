@@ -12,4 +12,5 @@
 11-lists - cript that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 12-file_type -  script that prints the type of the file named iamafile
 13-symbolic_link - Create a symbolic link to /bin/ls, named __ls_
-14-copy_html - script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory._
+14-copy_html - script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+100-lets_move - a script that moves all files beginning with an uppercase letter to the directory /tmp/u:
