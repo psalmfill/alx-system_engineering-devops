@@ -13,4 +13,5 @@
 12-file_type -  script that prints the type of the file named iamafile
 13-symbolic_link - Create a symbolic link to /bin/ls, named __ls_
 14-copy_html - script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
-100-lets_move - a script that moves all files beginning with an uppercase letter to the directory /tmp/u:
+100-lets_move - a script that moves all files beginning with an uppercase letter to the directory /tmp/u
+101-clean_emacs -  script that deletes all files in the current working directory that end with the character ~
